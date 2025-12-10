@@ -1,6 +1,6 @@
-import NavBar from "../components/common/navbar/NavBar";
-import Footer from "../components/common/footer/Footer";
-import ScrollToTop from "../components/common/scrollToTop/ScrollToTop";
+import NavBar from "../Components/common/navbar/NavBar";
+import Footer from "../Components/common/footer/Footer";
+import ScrollToTop from "../Components/common/scrollToTop/ScrollToTop";
 import { useEffect, useState } from "react";
 
 const Main = ({ children }) => {
