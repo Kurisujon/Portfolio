@@ -1,11 +1,11 @@
-import Introduction from "../components/introduction/Introduction";
-import Profile from "../components/profile/Profile";
-import WorkProcess from "../components/workProcess/WorkProcess";
-import Portfolio from "../components/portfolio/Portfolio";
-import Blog from "../components/blog/Blog";
-import Profession from "../components/profession/Profession";
-import Contact from "../components/contact/Contact";
-import Main from "../layouts/Main";
+import Introduction from "../Components/introduction/Introduction";
+import Profile from "../Components/profile/Profile";
+import WorkProcess from "../Components/workProcess/WorkProcess";
+import Portfolio from "../Components/portfolio/Portfolio";
+import Blog from "../Components/blog/Blog";
+import Profession from "../Components/profession/Profession";
+import Contact from "../Components/contact/Contact";
+import Main from "../Layouts/Main";
 
 const Home = () => {
   return (
